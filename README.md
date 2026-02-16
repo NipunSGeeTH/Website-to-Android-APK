@@ -5,7 +5,7 @@ A simple, lightweight template to convert your website into a high-performance A
 ## 📱 Live Demo
 You can see this template in action with my personal website:
 - **Website:** [https://nipunsgeeth.top](https://nipunsgeeth.top)
-- **Sample APK:** [Download Sample APK](https://github.com/nipunsangeeth/web-to-apk/releases) *(Update this link after uploading your APK to GitHub Releases)*
+- **Sample APK:** [Download Sample APK](https://github.com/NipunSGeeTH/my-web-apk/releases/download/0.0.1v/nipunsgeeth.apk) *(Update this link after uploading your APK to GitHub Releases)*
 
 ## 🚀 Getting Started
 
