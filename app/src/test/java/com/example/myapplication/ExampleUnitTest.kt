@@ -1,4 +1,4 @@
-package com.example.myapplication
+package top.nipunsgeeth.webapp
 
 import org.junit.Test
 

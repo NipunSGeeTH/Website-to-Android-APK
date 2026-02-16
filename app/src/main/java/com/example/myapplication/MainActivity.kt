@@ -1,4 +1,4 @@
-package com.example.myapplication
+package top.nipunsgeeth.webapp
 
 import com.google.androidbrowserhelper.trusted.LauncherActivity
 

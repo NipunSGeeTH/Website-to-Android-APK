@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "top.nipunsgeeth.webapp"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.myapplication"
+        applicationId = "top.nipunsgeeth.webapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
